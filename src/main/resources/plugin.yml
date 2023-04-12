@@ -1,0 +1,6 @@
+name: Races
+version: '${project.version}'
+main: me.zwoosks.races.Races
+api-version: 1.15
+authors: [ zwoosks ]
+description: Race plugin
